@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "LETTER☆彡",
+  "base_artist": "白上フブキ",
+  "createdAt": "2025-12-30T05:00:45.991353Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LETTER☆彡",
+      "artist": "Shirakami Fubuki",
+      "has_synced": true,
+      "path": "select/01_LETTER☆彡_Shirakami_Fubuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LETTER☆彡",
+      "artist": "白上フブキ",
+      "has_synced": true,
+      "path": "select/02_LETTER☆彡_白上フブキ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LETTER☆彡",
+      "artist": "白上フブキ",
+      "has_synced": true,
+      "path": "select/03_LETTER☆彡_白上フブキ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Letter☆彡",
+      "artist": "Fubuki Shirakami",
+      "has_synced": true,
+      "path": "select/04_Letter☆彡_Fubuki_Shirakami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LETTER☆彡",
+      "artist": "白上フブキ",
+      "has_synced": false,
+      "path": "select/pl_01_LETTER☆彡_白上フブキ.txt"
+    }
+  ]
+}
